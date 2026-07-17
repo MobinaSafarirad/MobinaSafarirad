@@ -53,7 +53,6 @@ I enjoy understanding how systems work—from algorithms and data to the softwar
 - AI Engineering
 
 ## Find Me
-https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bk58ZPoXERsW4QluL9MhKLA%3D%3D
 
 - LinkedIn: https://www.linkedin.com/in/mobina-safarirad
 <!--
