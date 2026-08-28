@@ -2,7 +2,7 @@
 
 Software engineering student focused on artificial intelligence, machine learning, and software engineering.
 
-I enjoy understanding how systems work—from algorithms and data to the software that brings them to life. Most of my repositories reflect what I'm building and learning through hands-on projects rather than tutorials.
+I enjoy understanding how systems work from algorithms and data to the software that brings them to life. Most of my repositories reflect what I'm building and learning through hands-on projects rather than tutorials.
 
 ## Interests: 
 
