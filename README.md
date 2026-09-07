@@ -14,9 +14,9 @@ Machine Learning · AI Engineering · Software Architecture
 
 ### Tech
 
-Python · C# · SQL · JavaScript · PHP · HTML/CSS ·
+Python · C# · SQL·
 NumPy · Pandas · Scikit-learn · SQLite ·
-Git · GitHub · Linux
+Git · GitHub · Linux · JavaScript · PHP · HTML/CSS 
 
 ### Find me
 
