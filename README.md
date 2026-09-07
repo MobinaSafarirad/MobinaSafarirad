@@ -1,71 +1,23 @@
-# Hi, I'm Mobina 👋
+# Hi, I'm Mobina :computer:
 
-Software engineering student focused on artificial intelligence, machine learning, and software engineering.
+Software engineering student focused on **AI, machine learning, and software engineering**.
 
-I enjoy understanding how systems work from algorithms and data to the software that brings them to life. Most of my repositories reflect what I'm building and learning through hands-on projects rather than tutorials.
+I learn by building practical projects and going deep into the systems behind them, from algorithms and data structures to machine learning and software architecture.
 
-## Interests: 
+### Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Backend Development
-- Data Science
-- System Design
+**AI & Machine Learning · Python · Data Science · DSA · Software Engineering**
 
-## Working With:
+### Currently exploring
 
-- Python
-- C#
-- SQL
-- HTML
-- CSS
-- JavaScript
-- PHP
+Machine Learning · AI Engineering · Software Architecture
 
-## Libraries & Frameworks:
+### Tech
 
-- Pandas
-- NumPy
-- Scikit-learn
-- SQLite
+Python · C# · SQL · JavaScript · PHP · HTML/CSS ·
+NumPy · Pandas · Scikit-learn · SQLite ·
+Git · GitHub · Linux
 
-## Tools:
+### Find me
 
-- Git
-- GitHub
-- VS Code
-- Linux
-
-## What I value:
-
-- Problem Solving
-- Data Structures & Algorithms
-- Analytical Thinking
-- Learning by Building
-- Writing Clean & Readable Code
-
-## Currently Exploring:
-
-- Machine Learning
-- Desktop Application Development
-- Software Architecture
-- AI Engineering
-
-## Find Me
-
-- LinkedIn: https://www.linkedin.com/in/mobina-safarirad
-<!--
-**MobinaSafarirad/MobinaSafarirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:mobinasafarirad@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mobina-safarirad)
