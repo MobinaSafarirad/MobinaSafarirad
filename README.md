@@ -20,4 +20,3 @@ Git · GitHub · Linux · JavaScript · PHP · HTML/CSS
 
 ### Find me
 
-[Email]
