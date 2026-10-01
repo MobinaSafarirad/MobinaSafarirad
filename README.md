@@ -18,5 +18,4 @@ Python · C# · SQL·
 NumPy · Pandas · Scikit-learn · SQLite ·
 Git · GitHub · Linux · JavaScript · PHP · HTML/CSS
 
-### Find me
-
+### 
