@@ -20,4 +20,4 @@ Git · GitHub · Linux · JavaScript · PHP · HTML/CSS
 
 ### Find me
 
-[Email](mailto:mobinasafarirad@gmail.com) 
+[Email]
